@@ -1,4 +1,4 @@
-//Carlos andres alzate agredo 2216089
+//Carlos andres alzate agredo 2216089 g
 //Funciones que puede tener un Array o lista en JavaScript
 
 
